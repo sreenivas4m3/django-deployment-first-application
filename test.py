@@ -1,2 +1,3 @@
 print('welcome to django')
-print('welcome to python')
+print('wlcome to python')
+print('this is sreenivas')
